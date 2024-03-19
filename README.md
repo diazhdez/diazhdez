@@ -1,8 +1,5 @@
-- 👋 Hi, I’m Josué Díaz Hernández
-- 👀 I’m interested in movies, anime, videogames and geek shi
-- 🌱 I’m currently learning Django and React
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I would like to learn Sonic Pi
+# 💫 About Me:
+🌱 I’m currently learning Django and React<br>👀 I’m interested in movies, anime, videogames and geek shi<br>😄 Pronouns: he/him<br>⚡ Fun fact: I would like to learn Sonic Pi
 
 <p align="center">
   <a href="https://skillicons.dev">
