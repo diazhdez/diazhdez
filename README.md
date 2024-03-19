@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Josué Díaz Hernández
-- 👀 I’m interested in Movies, anime, videogames and geek shi
+- 👀 I’m interested in movies, anime, videogames and geek shi
 - 🌱 I’m currently learning Django and React
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I would like to learn Sonic Pi
