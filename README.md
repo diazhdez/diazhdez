@@ -4,7 +4,8 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I would like to learn Sonic Pi
 
-<!---
-diazhdez/diazhdez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py, flask, mongodb, mysql, git, github, windows, powershell, html, css, bootstrap, vscode, arduino, heroku" />
+  </a>
+</p>
