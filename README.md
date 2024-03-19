@@ -11,3 +11,13 @@
     <img src="https://skillicons.dev/icons?i=windows,powershell,git,github" />
   </a>
 </p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,vscode,heroku" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,powershell,git,github" />
+  </a>
+</p>
