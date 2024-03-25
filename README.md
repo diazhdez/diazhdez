@@ -1,9 +1,6 @@
 ## Hi there 👋
-🌱 I’m a Software Engineering Student and I’m currently learning Django
+🌱 I’m a Software Engineering Student and I’m learning Django.
 <br>
-🎍 I’m interested in cybersecurity, music, movies and videogames. 
+🌼 I’m interested in cybersecurity, hacking, music and movies. 
 <br>
-💨 I would like to learn Emacs and Sonic Pi
-
-## Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=py,mongodb,mysql,git,github&perline=3)](https://skillicons.dev)
+🍡 I would like to learn Emacs and Sonic Pi.
