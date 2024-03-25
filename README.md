@@ -6,8 +6,4 @@
 ⚡ Fun fact: I would like to learn Sonic Pi -->
 
 ## 💻 Tech Stack:
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,flask,mongodb,mysql,git,github" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=py,mongodb,mysql,git,github&perline=3)](https://skillicons.dev)
